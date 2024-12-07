@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "productName": "Laptop",
+    "quantity": 2,
+    "orderDate": "2024-06-01",
+    "customerName": "John Doe"
+  },
+  {
+    "id": 2,
+    "productName": "Smartphone",
+    "quantity": 3,
+    "orderDate": "2024-06-02",
+    "customerName": "Jane Smith"
+  },
+  {
+    "id": 3,
+    "productName": "Headphones",
+    "quantity": 5,
+    "orderDate": "2024-06-03",
+    "customerName": "Alice Johnson"
+  }
+]
