@@ -1,0 +1,4 @@
+INSERT INTO orders (product_name, quantity, order_date, customer_name) VALUES
+('Laptop', 2, '2024-06-01', 'John Doe'),
+('Smartphone', 3, '2024-06-02', 'Jane Smith'),
+('Headphones', 5, '2024-06-03', 'Alice Johnson');
